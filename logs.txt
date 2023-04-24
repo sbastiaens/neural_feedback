@@ -1,0 +1,6 @@
+24/04/2023
+- Set up environment and pip installed packages on local computer
+- SSH key to github 
+- Made repo on github and cloned repo "neural-feedback" on local
+- Looked at real-time recording EEG with brainflow code
+
